@@ -2,4 +2,4 @@
 MSc Thesis Stockholm University
 
 ## Title
-Anamoly detection algorithm on time series data and its application in data analytics
+Anomaly detection algorithm on time series data and its application in data analytics
