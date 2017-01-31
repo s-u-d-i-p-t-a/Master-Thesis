@@ -1,5 +1,5 @@
-## Master-Thesis
+# Master-Thesis
 MSc Thesis Stockholm University
 
-# Title
+## Title
 Anamoly detection algorithm on time series data and its application in data analytics
