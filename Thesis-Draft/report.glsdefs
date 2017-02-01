@@ -1,0 +1,90 @@
+\ifglsentryexists{iot}{}%
+{%
+\gls@defglossaryentry{iot}%
+{%
+name={IoT},%
+sort={IoT},%
+type={acronym},%
+first={Internet of Things\glsspace (IoT)},%
+firstplural={Internet of Thingss\glsspace (IoTs)},%
+text={IoT},%
+plural={IoTs},%
+description={Internet of Things},%
+descriptionplural={Internet of Things\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Internet of Things},%
+longplural={Internet of Thingss},%
+short={IoT},%
+shortplural={IoTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ims}{}%
+{%
+\gls@defglossaryentry{ims}%
+{%
+name={IMS},%
+sort={IMS},%
+type={acronym},%
+first={IP Multimedia Subsystem\glsspace (IMS)},%
+firstplural={IP Multimedia Subsystems\glsspace (IMSs)},%
+text={IMS},%
+plural={IMSs},%
+description={IP Multimedia Subsystem},%
+descriptionplural={IP Multimedia Subsystem\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={IP Multimedia Subsystem},%
+longplural={IP Multimedia Subsystems},%
+short={IMS},%
+shortplural={IMSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pr}{}%
+{%
+\gls@defglossaryentry{pr}%
+{%
+name={PR},%
+sort={PR},%
+type={acronym},%
+first={Polarization Rotator\glsspace (PR)},%
+firstplural={Polarization Rotators\glsspace (PRs)},%
+text={PR},%
+plural={PRs},%
+description={Polarization Rotator},%
+descriptionplural={Polarization Rotator\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Polarization Rotator},%
+longplural={Polarization Rotators},%
+short={PR},%
+shortplural={PRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
