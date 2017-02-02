@@ -1,1 +1,8 @@
 1.http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm
+
+
+http://stats.stackexchange.com/questions/152644/what-algorithm-should-i-use-to-detect-anomalies-on-time-series
+
+http://stats.stackexchange.com/questions/137094/algorithms-for-time-series-anomaly-detection
+
+https://anomaly.io/seasonal-trend-decomposition-in-r/
