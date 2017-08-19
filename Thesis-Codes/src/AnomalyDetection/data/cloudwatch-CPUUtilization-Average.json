@@ -1,0 +1,6725 @@
+{
+    "Datapoints": [
+        {
+            "Timestamp": "2017-03-06T11:00:00Z", 
+            "Average": 0.40650000000000003, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T01:00:00Z", 
+            "Average": 0.3398333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T10:00:00Z", 
+            "Average": 37.958499999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T22:00:00Z", 
+            "Average": 37.9535, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T12:00:00Z", 
+            "Average": 36.654666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T05:00:00Z", 
+            "Average": 33.009, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T14:00:00Z", 
+            "Average": 54.782333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T04:00:00Z", 
+            "Average": 35.48633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T13:00:00Z", 
+            "Average": 36.409166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T23:00:00Z", 
+            "Average": 35.17833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T05:00:00Z", 
+            "Average": 0.3855, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T22:00:00Z", 
+            "Average": 37.302, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T15:00:00Z", 
+            "Average": 30.614833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T04:00:00Z", 
+            "Average": 37.7425, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T11:00:00Z", 
+            "Average": 36.17216666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T23:00:00Z", 
+            "Average": 0.35616666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T13:00:00Z", 
+            "Average": 36.51083333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T02:00:00Z", 
+            "Average": 32.5625, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T10:00:00Z", 
+            "Average": 34.26316666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T00:00:00Z", 
+            "Average": 36.35483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T17:00:00Z", 
+            "Average": 35.409, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T03:00:00Z", 
+            "Average": 36.37266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T16:00:00Z", 
+            "Average": 32.31333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T02:00:00Z", 
+            "Average": 0.3613333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T16:00:00Z", 
+            "Average": 0.375, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T08:00:00Z", 
+            "Average": 37.371833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T17:00:00Z", 
+            "Average": 0.38749999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T03:00:00Z", 
+            "Average": 0.38766666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T11:00:00Z", 
+            "Average": 38.90299999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T01:00:00Z", 
+            "Average": 38.352500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T11:00:00Z", 
+            "Average": 36.284666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T14:00:00Z", 
+            "Average": 0.39166666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T06:00:00Z", 
+            "Average": 36.04783333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T04:00:00Z", 
+            "Average": 0.399, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T21:00:00Z", 
+            "Average": 35.154999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T14:00:00Z", 
+            "Average": 0.33583333333333343, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T20:00:00Z", 
+            "Average": 34.88133333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T12:00:00Z", 
+            "Average": 39.16316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T15:00:00Z", 
+            "Average": 36.43816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T05:00:00Z", 
+            "Average": 34.87016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T23:00:00Z", 
+            "Average": 36.93216666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T21:00:00Z", 
+            "Average": 0.34866666666666657, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T07:00:00Z", 
+            "Average": 0.3751666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T20:00:00Z", 
+            "Average": 37.424, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T01:00:00Z", 
+            "Average": 37.16366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T18:00:00Z", 
+            "Average": 36.412, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T00:00:00Z", 
+            "Average": 33.162166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T10:00:00Z", 
+            "Average": 34.93866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T19:00:00Z", 
+            "Average": 46.541000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T09:00:00Z", 
+            "Average": 0.36099999999999993, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T20:00:00Z", 
+            "Average": 38.767500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T08:00:00Z", 
+            "Average": 34.763999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T18:00:00Z", 
+            "Average": 37.7065, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T11:00:00Z", 
+            "Average": 34.4715, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T01:00:00Z", 
+            "Average": 0.39549999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T10:00:00Z", 
+            "Average": 0.34883333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T00:00:00Z", 
+            "Average": 0.3676666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T07:00:00Z", 
+            "Average": 36.3495, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T09:00:00Z", 
+            "Average": 38.11216666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T19:00:00Z", 
+            "Average": 36.019333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T09:00:00Z", 
+            "Average": 38.50033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T13:00:00Z", 
+            "Average": 34.791333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T06:00:00Z", 
+            "Average": 0.40650000000000003, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T23:00:00Z", 
+            "Average": 36.72166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T22:00:00Z", 
+            "Average": 31.524499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T12:00:00Z", 
+            "Average": 0.38983333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T22:00:00Z", 
+            "Average": 0.37533333333333324, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T04:00:00Z", 
+            "Average": 36.654, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T06:00:00Z", 
+            "Average": 34.490333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T23:00:00Z", 
+            "Average": 35.18483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T13:00:00Z", 
+            "Average": 33.164833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T12:00:00Z", 
+            "Average": 0.3365, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T15:00:00Z", 
+            "Average": 35.029666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T07:00:00Z", 
+            "Average": 0.45283333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T21:00:00Z", 
+            "Average": 37.8705, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T08:00:00Z", 
+            "Average": 31.460166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T17:00:00Z", 
+            "Average": 37.04083333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T10:00:00Z", 
+            "Average": 34.15333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T02:00:00Z", 
+            "Average": 35.145833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T16:00:00Z", 
+            "Average": 29.378, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T01:00:00Z", 
+            "Average": 34.83733333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T11:00:00Z", 
+            "Average": 0.3503333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T00:00:00Z", 
+            "Average": 3.5585, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T19:00:00Z", 
+            "Average": 35.996833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T02:00:00Z", 
+            "Average": 0.3390000000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T09:00:00Z", 
+            "Average": 35.361999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T16:00:00Z", 
+            "Average": 37.88066666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T09:00:00Z", 
+            "Average": 38.02366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T06:00:00Z", 
+            "Average": 39.17433333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T13:00:00Z", 
+            "Average": 33.791000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T20:00:00Z", 
+            "Average": 34.271166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T23:00:00Z", 
+            "Average": 36.44233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T04:00:00Z", 
+            "Average": 0.373, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T07:00:00Z", 
+            "Average": 34.011, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T14:00:00Z", 
+            "Average": 2.6539999999999986, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T21:00:00Z", 
+            "Average": 37.81499999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T07:00:00Z", 
+            "Average": 34.54766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T20:00:00Z", 
+            "Average": 0.377, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T23:00:00Z", 
+            "Average": 33.91416666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T06:00:00Z", 
+            "Average": 0.45500000000000007, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T13:00:00Z", 
+            "Average": 0.37449999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T18:00:00Z", 
+            "Average": 34.925333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T14:00:00Z", 
+            "Average": 36.906666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T21:00:00Z", 
+            "Average": 37.50916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T04:00:00Z", 
+            "Average": 38.86816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T19:00:00Z", 
+            "Average": 37.439166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T18:00:00Z", 
+            "Average": 33.84166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T01:00:00Z", 
+            "Average": 36.47533333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T08:00:00Z", 
+            "Average": 0.37466666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T11:00:00Z", 
+            "Average": 54.79716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T07:00:00Z", 
+            "Average": 37.06133333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T14:00:00Z", 
+            "Average": 37.51716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T00:00:00Z", 
+            "Average": 37.34866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T19:00:00Z", 
+            "Average": 37.591499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T02:00:00Z", 
+            "Average": 35.732499999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T08:00:00Z", 
+            "Average": 35.80116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T11:00:00Z", 
+            "Average": 0.3823333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T18:00:00Z", 
+            "Average": 36.456833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T01:00:00Z", 
+            "Average": 31.089500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T23:00:00Z", 
+            "Average": 0.37533333333333324, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T05:00:00Z", 
+            "Average": 38.754, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T12:00:00Z", 
+            "Average": 54.759666666666675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T22:00:00Z", 
+            "Average": 36.66516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T06:00:00Z", 
+            "Average": 34.290333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T13:00:00Z", 
+            "Average": 0.3768333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T20:00:00Z", 
+            "Average": 35.574666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T22:00:00Z", 
+            "Average": 20.173999999999992, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T05:00:00Z", 
+            "Average": 34.27016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T12:00:00Z", 
+            "Average": 37.43366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T17:00:00Z", 
+            "Average": 37.11583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T15:00:00Z", 
+            "Average": 36.166500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T02:00:00Z", 
+            "Average": 40.616499999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T09:00:00Z", 
+            "Average": 54.92816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T16:00:00Z", 
+            "Average": 33.195, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T19:00:00Z", 
+            "Average": 34.633833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T05:00:00Z", 
+            "Average": 38.480999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T12:00:00Z", 
+            "Average": 36.153, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T10:00:00Z", 
+            "Average": 0.36733333333333323, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T17:00:00Z", 
+            "Average": 37.355333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T00:00:00Z", 
+            "Average": 0.44516666666666677, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T03:00:00Z", 
+            "Average": 37.51166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T16:00:00Z", 
+            "Average": 30.926666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T19:00:00Z", 
+            "Average": 32.82816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T02:00:00Z", 
+            "Average": 0.38766666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T09:00:00Z", 
+            "Average": 0.3749999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T00:00:00Z", 
+            "Average": 38.404, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T03:00:00Z", 
+            "Average": 0.34450000000000003, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T10:00:00Z", 
+            "Average": 0.4456666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T17:00:00Z", 
+            "Average": 37.6065, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T10:00:00Z", 
+            "Average": 36.417666666666676, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T04:00:00Z", 
+            "Average": 0.4109999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T07:00:00Z", 
+            "Average": 34.466, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T14:00:00Z", 
+            "Average": 34.40433333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T21:00:00Z", 
+            "Average": 31.059833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T20:00:00Z", 
+            "Average": 34.2555, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T14:00:00Z", 
+            "Average": 1.555166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T21:00:00Z", 
+            "Average": 0.36549999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T04:00:00Z", 
+            "Average": 35.517500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T07:00:00Z", 
+            "Average": 0.37516666666666676, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T15:00:00Z", 
+            "Average": 36.349666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T22:00:00Z", 
+            "Average": 36.41, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T08:00:00Z", 
+            "Average": 35.449666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T01:00:00Z", 
+            "Average": 36.290166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T03:00:00Z", 
+            "Average": 36.41300000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T09:00:00Z", 
+            "Average": 0.341, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T16:00:00Z", 
+            "Average": 35.085499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T19:00:00Z", 
+            "Average": 0.37516666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T02:00:00Z", 
+            "Average": 35.249, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T12:00:00Z", 
+            "Average": 35.45066666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T08:00:00Z", 
+            "Average": 0.4548333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T01:00:00Z", 
+            "Average": 52.086, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T07:00:00Z", 
+            "Average": 35.97466666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T06:00:00Z", 
+            "Average": 34.891, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T09:00:00Z", 
+            "Average": 35.272166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T12:00:00Z", 
+            "Average": 35.879333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T15:00:00Z", 
+            "Average": 0.381, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T14:00:00Z", 
+            "Average": 0.35, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T20:00:00Z", 
+            "Average": 31.35016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T08:00:00Z", 
+            "Average": 32.745666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T13:00:00Z", 
+            "Average": 36.43716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T19:00:00Z", 
+            "Average": 33.665166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T12:00:00Z", 
+            "Average": 0.3585, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T15:00:00Z", 
+            "Average": 27.488666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T20:00:00Z", 
+            "Average": 34.38, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T13:00:00Z", 
+            "Average": 34.0775, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T19:00:00Z", 
+            "Average": 36.147000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T18:00:00Z", 
+            "Average": 0.3881666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T21:00:00Z", 
+            "Average": 35.041000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T21:00:00Z", 
+            "Average": 38.39116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T00:00:00Z", 
+            "Average": 33.55733333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T03:00:00Z", 
+            "Average": 0.3676666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T15:00:00Z", 
+            "Average": 37.7205, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T02:00:00Z", 
+            "Average": 36.1825, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T19:00:00Z", 
+            "Average": 31.842, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T18:00:00Z", 
+            "Average": 0.4106666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T00:00:00Z", 
+            "Average": 36.57066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T03:00:00Z", 
+            "Average": 37.92933333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T09:00:00Z", 
+            "Average": 37.431333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T01:00:00Z", 
+            "Average": 0.3863333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T07:00:00Z", 
+            "Average": 0.3711666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T06:00:00Z", 
+            "Average": 0.4275, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T23:00:00Z", 
+            "Average": 36.019833333333345, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T22:00:00Z", 
+            "Average": 35.827999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T01:00:00Z", 
+            "Average": 0.3655, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T14:00:00Z", 
+            "Average": 36.69166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T04:00:00Z", 
+            "Average": 35.15983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T07:00:00Z", 
+            "Average": 36.98583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T06:00:00Z", 
+            "Average": 0.4474999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T12:00:00Z", 
+            "Average": 0.36950000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T10:00:00Z", 
+            "Average": 33.77683333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T13:00:00Z", 
+            "Average": 0.3666666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T22:00:00Z", 
+            "Average": 37.633, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T16:00:00Z", 
+            "Average": 34.4125, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T04:00:00Z", 
+            "Average": 33.546, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T21:00:00Z", 
+            "Average": 35.9065, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T02:00:00Z", 
+            "Average": 23.189166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T05:00:00Z", 
+            "Average": 38.42383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T08:00:00Z", 
+            "Average": 34.03733333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T11:00:00Z", 
+            "Average": 0.3446666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T10:00:00Z", 
+            "Average": 0.3386666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T03:00:00Z", 
+            "Average": 36.76933333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T16:00:00Z", 
+            "Average": 38.27216666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T09:00:00Z", 
+            "Average": 35.03099999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T04:00:00Z", 
+            "Average": 48.60833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T05:00:00Z", 
+            "Average": 36.548333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T08:00:00Z", 
+            "Average": 0.36750000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T11:00:00Z", 
+            "Average": 35.9195, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T10:00:00Z", 
+            "Average": 38.37916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T16:00:00Z", 
+            "Average": 34.984, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T09:00:00Z", 
+            "Average": 0.36749999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T15:00:00Z", 
+            "Average": 34.154833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T14:00:00Z", 
+            "Average": 0.392, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T17:00:00Z", 
+            "Average": 0.32583333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T20:00:00Z", 
+            "Average": 36.68033333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T23:00:00Z", 
+            "Average": 36.79416666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T22:00:00Z", 
+            "Average": 38.28783333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T11:00:00Z", 
+            "Average": 38.641333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T15:00:00Z", 
+            "Average": 17.809166666666673, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T14:00:00Z", 
+            "Average": 31.239666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T17:00:00Z", 
+            "Average": 36.28933333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T20:00:00Z", 
+            "Average": 54.23583333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T23:00:00Z", 
+            "Average": 34.398999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T21:00:00Z", 
+            "Average": 0.39916666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T03:00:00Z", 
+            "Average": 34.08333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T02:00:00Z", 
+            "Average": 35.7875, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T05:00:00Z", 
+            "Average": 36.38916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T18:00:00Z", 
+            "Average": 34.42266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T21:00:00Z", 
+            "Average": 41.48366666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T00:00:00Z", 
+            "Average": 37.148500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T03:00:00Z", 
+            "Average": 35.811166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T02:00:00Z", 
+            "Average": 35.78616666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T08:00:00Z", 
+            "Average": 0.3611666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T06:00:00Z", 
+            "Average": 36.734833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T09:00:00Z", 
+            "Average": 36.643666666666675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T17:00:00Z", 
+            "Average": 37.60066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T00:00:00Z", 
+            "Average": 35.300666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T18:00:00Z", 
+            "Average": 38.85583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T16:00:00Z", 
+            "Average": 40.40700000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T22:00:00Z", 
+            "Average": 34.034666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T15:00:00Z", 
+            "Average": 35.086000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T23:00:00Z", 
+            "Average": 36.01200000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T06:00:00Z", 
+            "Average": 0.41916666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T05:00:00Z", 
+            "Average": 0.38566666666666655, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T12:00:00Z", 
+            "Average": 35.95866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T21:00:00Z", 
+            "Average": 34.82133333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T04:00:00Z", 
+            "Average": 54.83383333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T00:00:00Z", 
+            "Average": 34.58683333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T21:00:00Z", 
+            "Average": 29.56566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T23:00:00Z", 
+            "Average": 34.096000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T06:00:00Z", 
+            "Average": 36.567, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T12:00:00Z", 
+            "Average": 37.483666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T05:00:00Z", 
+            "Average": 0.45316666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T04:00:00Z", 
+            "Average": 0.40750000000000003, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T10:00:00Z", 
+            "Average": 0.3611666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T03:00:00Z", 
+            "Average": 35.092499999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T05:00:00Z", 
+            "Average": 37.502833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T09:00:00Z", 
+            "Average": 34.35033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T22:00:00Z", 
+            "Average": 34.81916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T11:00:00Z", 
+            "Average": 0.36399999999999993, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T18:00:00Z", 
+            "Average": 38.65383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T03:00:00Z", 
+            "Average": 0.3638333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T10:00:00Z", 
+            "Average": 37.71333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T09:00:00Z", 
+            "Average": 0.3371666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T16:00:00Z", 
+            "Average": 0.35966666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T11:00:00Z", 
+            "Average": 44.3025, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T17:00:00Z", 
+            "Average": 35.122166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T22:00:00Z", 
+            "Average": 29.683833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T15:00:00Z", 
+            "Average": 0.36733333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T14:00:00Z", 
+            "Average": 33.778666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T07:00:00Z", 
+            "Average": 40.096000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T15:00:00Z", 
+            "Average": 21.26716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T22:00:00Z", 
+            "Average": 36.1895, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T21:00:00Z", 
+            "Average": 22.076999999999998, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T04:00:00Z", 
+            "Average": 0.38033333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T20:00:00Z", 
+            "Average": 33.758833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T02:00:00Z", 
+            "Average": 35.368833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T13:00:00Z", 
+            "Average": 0.4028333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T14:00:00Z", 
+            "Average": 38.27700000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T05:00:00Z", 
+            "Average": 34.66816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T12:00:00Z", 
+            "Average": 0.37600000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T18:00:00Z", 
+            "Average": 36.94133333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T11:00:00Z", 
+            "Average": 27.56633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T20:00:00Z", 
+            "Average": 0.3358333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T19:00:00Z", 
+            "Average": 33.82283333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T02:00:00Z", 
+            "Average": 0.4063333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T00:00:00Z", 
+            "Average": 36.227000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T17:00:00Z", 
+            "Average": 34.70083333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T02:00:00Z", 
+            "Average": 34.174166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T19:00:00Z", 
+            "Average": 37.90899999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T01:00:00Z", 
+            "Average": 37.797000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T08:00:00Z", 
+            "Average": 35.463499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T13:00:00Z", 
+            "Average": 35.346000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T17:00:00Z", 
+            "Average": 34.717999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T00:00:00Z", 
+            "Average": 0.3918333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T06:00:00Z", 
+            "Average": 36.0125, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T23:00:00Z", 
+            "Average": 36.458333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T08:00:00Z", 
+            "Average": 32.839166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T01:00:00Z", 
+            "Average": 47.73166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T19:00:00Z", 
+            "Average": 35.369, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T14:00:00Z", 
+            "Average": 17.161666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T07:00:00Z", 
+            "Average": 0.3543333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T23:00:00Z", 
+            "Average": 33.7845, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T06:00:00Z", 
+            "Average": 36.4215, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T07:00:00Z", 
+            "Average": 38.30633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T13:00:00Z", 
+            "Average": 36.87616666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T20:00:00Z", 
+            "Average": 36.80233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T05:00:00Z", 
+            "Average": 0.39533333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T12:00:00Z", 
+            "Average": 38.53966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T11:00:00Z", 
+            "Average": 0.3733333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T18:00:00Z", 
+            "Average": 33.018166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T03:00:00Z", 
+            "Average": 37.30083333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T10:00:00Z", 
+            "Average": 35.408833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T18:00:00Z", 
+            "Average": 0.3766666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T11:00:00Z", 
+            "Average": 32.902, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T17:00:00Z", 
+            "Average": 33.11983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T16:00:00Z", 
+            "Average": 36.9345, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T00:00:00Z", 
+            "Average": 36.47816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T09:00:00Z", 
+            "Average": 37.4885, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T22:00:00Z", 
+            "Average": 0.39649999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T18:00:00Z", 
+            "Average": 35.63649999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T17:00:00Z", 
+            "Average": 0.4065, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T04:00:00Z", 
+            "Average": 37.29266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T13:00:00Z", 
+            "Average": 0.39183333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T06:00:00Z", 
+            "Average": 37.976, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T02:00:00Z", 
+            "Average": 0.38049999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T19:00:00Z", 
+            "Average": 36.586666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T06:00:00Z", 
+            "Average": 38.033833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T21:00:00Z", 
+            "Average": 39.47233333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T00:00:00Z", 
+            "Average": 0.3821666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T20:00:00Z", 
+            "Average": 36.23266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T16:00:00Z", 
+            "Average": 34.764166666666675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T17:00:00Z", 
+            "Average": 36.90266666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T07:00:00Z", 
+            "Average": 33.961, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T00:00:00Z", 
+            "Average": 0.3651666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T20:00:00Z", 
+            "Average": 0.40083333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T02:00:00Z", 
+            "Average": 38.82516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T19:00:00Z", 
+            "Average": 0.4736666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T15:00:00Z", 
+            "Average": 36.22350000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T11:00:00Z", 
+            "Average": 29.313000000000002, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T04:00:00Z", 
+            "Average": 37.618, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T15:00:00Z", 
+            "Average": 0.35866666666666674, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T11:00:00Z", 
+            "Average": 36.959666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T14:00:00Z", 
+            "Average": 34.600166666666674, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T09:00:00Z", 
+            "Average": 36.57766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T02:00:00Z", 
+            "Average": 0.45066666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T22:00:00Z", 
+            "Average": 38.612, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T05:00:00Z", 
+            "Average": 36.85816666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T18:00:00Z", 
+            "Average": 34.551833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T17:00:00Z", 
+            "Average": 37.05816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T13:00:00Z", 
+            "Average": 34.4845, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T09:00:00Z", 
+            "Average": 0.362, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T05:00:00Z", 
+            "Average": 0.38100000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T22:00:00Z", 
+            "Average": 34.361666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T21:00:00Z", 
+            "Average": 36.557, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T13:00:00Z", 
+            "Average": 0.3431666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T16:00:00Z", 
+            "Average": 31.552500000000002, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T23:00:00Z", 
+            "Average": 37.01733333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T12:00:00Z", 
+            "Average": 35.109500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T07:00:00Z", 
+            "Average": 38.066, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T00:00:00Z", 
+            "Average": 36.096500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T20:00:00Z", 
+            "Average": 33.00716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T08:00:00Z", 
+            "Average": 35.527499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T04:00:00Z", 
+            "Average": 0.4045, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T23:00:00Z", 
+            "Average": 28.364333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T16:00:00Z", 
+            "Average": 37.547333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T19:00:00Z", 
+            "Average": 35.46633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T12:00:00Z", 
+            "Average": 0.39133333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T07:00:00Z", 
+            "Average": 34.87233333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T03:00:00Z", 
+            "Average": 35.599500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T06:00:00Z", 
+            "Average": 38.12616666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T03:00:00Z", 
+            "Average": 38.25866666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T06:00:00Z", 
+            "Average": 30.520333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T02:00:00Z", 
+            "Average": 35.28366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T01:00:00Z", 
+            "Average": 37.83616666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T14:00:00Z", 
+            "Average": 34.75483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T21:00:00Z", 
+            "Average": 34.13516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T17:00:00Z", 
+            "Average": 34.32666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T10:00:00Z", 
+            "Average": 0.37916666666666654, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T03:00:00Z", 
+            "Average": 37.84966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T05:00:00Z", 
+            "Average": 35.64383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T01:00:00Z", 
+            "Average": 37.50633333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T21:00:00Z", 
+            "Average": 0.38299999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T10:00:00Z", 
+            "Average": 37.736000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T15:00:00Z", 
+            "Average": 34.121, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T08:00:00Z", 
+            "Average": 36.17250000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T04:00:00Z", 
+            "Average": 0.3974999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T00:00:00Z", 
+            "Average": 54.716499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T23:00:00Z", 
+            "Average": 38.400666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T19:00:00Z", 
+            "Average": 0.4061666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T12:00:00Z", 
+            "Average": 37.603833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T15:00:00Z", 
+            "Average": 0.39733333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T08:00:00Z", 
+            "Average": 36.78150000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T11:00:00Z", 
+            "Average": 36.75766666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T04:00:00Z", 
+            "Average": 0.39766666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T23:00:00Z", 
+            "Average": 38.184666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T19:00:00Z", 
+            "Average": 0.3398333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T22:00:00Z", 
+            "Average": 35.64583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T17:00:00Z", 
+            "Average": 0.3766666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T13:00:00Z", 
+            "Average": 24.282, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T06:00:00Z", 
+            "Average": 34.17383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T02:00:00Z", 
+            "Average": 0.39383333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T17:00:00Z", 
+            "Average": 37.353500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T10:00:00Z", 
+            "Average": 35.89633333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T22:00:00Z", 
+            "Average": 0.461, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T05:00:00Z", 
+            "Average": 38.296166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T20:00:00Z", 
+            "Average": 50.0355, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T03:00:00Z", 
+            "Average": 35.62566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T18:00:00Z", 
+            "Average": 34.53766666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T01:00:00Z", 
+            "Average": 0.381, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T21:00:00Z", 
+            "Average": 0.3876666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T14:00:00Z", 
+            "Average": 35.154333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T22:00:00Z", 
+            "Average": 39.20466666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T12:00:00Z", 
+            "Average": 35.343666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T19:00:00Z", 
+            "Average": 35.3475, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T18:00:00Z", 
+            "Average": 39.36666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T01:00:00Z", 
+            "Average": 38.79600000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T19:00:00Z", 
+            "Average": 0.4028333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T12:00:00Z", 
+            "Average": 35.784499999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T08:00:00Z", 
+            "Average": 35.62033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T15:00:00Z", 
+            "Average": 38.254333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T03:00:00Z", 
+            "Average": 37.774, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T20:00:00Z", 
+            "Average": 36.06016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T16:00:00Z", 
+            "Average": 37.22866666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T23:00:00Z", 
+            "Average": 0.35966666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T23:00:00Z", 
+            "Average": 0.46216666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T14:00:00Z", 
+            "Average": 32.38366666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T21:00:00Z", 
+            "Average": 0.40650000000000003, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T17:00:00Z", 
+            "Average": 0.4043333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T10:00:00Z", 
+            "Average": 33.80566666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T13:00:00Z", 
+            "Average": 35.496, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T02:00:00Z", 
+            "Average": 36.25233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T18:00:00Z", 
+            "Average": 11.836999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T01:00:00Z", 
+            "Average": 37.09933333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T21:00:00Z", 
+            "Average": 35.39083333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T14:00:00Z", 
+            "Average": 0.34483333333333344, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T10:00:00Z", 
+            "Average": 0.37650000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T17:00:00Z", 
+            "Average": 39.21966666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T11:00:00Z", 
+            "Average": 34.97583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T16:00:00Z", 
+            "Average": 0.3451666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T12:00:00Z", 
+            "Average": 0.3695, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T19:00:00Z", 
+            "Average": 33.728, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T15:00:00Z", 
+            "Average": 30.5375, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T08:00:00Z", 
+            "Average": 0.36400000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T00:00:00Z", 
+            "Average": 37.97716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T20:00:00Z", 
+            "Average": 34.02966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T11:00:00Z", 
+            "Average": 0.3368333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T04:00:00Z", 
+            "Average": 36.5465, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T00:00:00Z", 
+            "Average": 0.37449999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T07:00:00Z", 
+            "Average": 0.3486666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T03:00:00Z", 
+            "Average": 35.810833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T06:00:00Z", 
+            "Average": 34.25483333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T08:00:00Z", 
+            "Average": 36.69416666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T18:00:00Z", 
+            "Average": 36.653499999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T01:00:00Z", 
+            "Average": 0.40549999999999997, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T06:00:00Z", 
+            "Average": 38.071000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T13:00:00Z", 
+            "Average": 38.35450000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T02:00:00Z", 
+            "Average": 36.48166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T09:00:00Z", 
+            "Average": 0.3841666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T22:00:00Z", 
+            "Average": 0.4316666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T05:00:00Z", 
+            "Average": 35.452, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T02:00:00Z", 
+            "Average": 37.11866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T09:00:00Z", 
+            "Average": 37.289333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T05:00:00Z", 
+            "Average": 35.991, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T20:00:00Z", 
+            "Average": 0.3883333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T03:00:00Z", 
+            "Average": 33.6695, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T23:00:00Z", 
+            "Average": 35.10966666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T16:00:00Z", 
+            "Average": 36.0545, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T11:00:00Z", 
+            "Average": 35.432500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T04:00:00Z", 
+            "Average": 36.846000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T15:00:00Z", 
+            "Average": 37.59916666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T07:00:00Z", 
+            "Average": 0.3706666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T00:00:00Z", 
+            "Average": 0.3811666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T03:00:00Z", 
+            "Average": 34.308, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T20:00:00Z", 
+            "Average": 0.4231666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T23:00:00Z", 
+            "Average": 0.4155, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T16:00:00Z", 
+            "Average": 0.4028333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T00:00:00Z", 
+            "Average": 35.32066666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T07:00:00Z", 
+            "Average": 36.942499999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T22:00:00Z", 
+            "Average": 0.3559999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T01:00:00Z", 
+            "Average": 0.36950000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T18:00:00Z", 
+            "Average": 0.40083333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T14:00:00Z", 
+            "Average": 34.75900000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T21:00:00Z", 
+            "Average": 38.245999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T22:00:00Z", 
+            "Average": 37.679833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T18:00:00Z", 
+            "Average": 37.20466666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T14:00:00Z", 
+            "Average": 33.4725, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T05:00:00Z", 
+            "Average": 0.35983333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T01:00:00Z", 
+            "Average": 0.36733333333333323, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T21:00:00Z", 
+            "Average": 36.42633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T03:00:00Z", 
+            "Average": 37.355000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T05:00:00Z", 
+            "Average": 38.353166666666674, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T01:00:00Z", 
+            "Average": 0.39949999999999997, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T07:00:00Z", 
+            "Average": 35.46666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T03:00:00Z", 
+            "Average": 0.38999999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T23:00:00Z", 
+            "Average": 35.056333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T12:00:00Z", 
+            "Average": 0.3896666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T08:00:00Z", 
+            "Average": 0.36133333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T11:00:00Z", 
+            "Average": 37.771166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T04:00:00Z", 
+            "Average": 0.41233333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T10:00:00Z", 
+            "Average": 36.57583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T12:00:00Z", 
+            "Average": 38.176833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T08:00:00Z", 
+            "Average": 0.38799999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T07:00:00Z", 
+            "Average": 37.89149999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T14:00:00Z", 
+            "Average": 36.39033333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T10:00:00Z", 
+            "Average": 0.3638333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T06:00:00Z", 
+            "Average": 35.48233333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T09:00:00Z", 
+            "Average": 38.016, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T18:00:00Z", 
+            "Average": 36.1795, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T21:00:00Z", 
+            "Average": 31.32033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T17:00:00Z", 
+            "Average": 35.568333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T13:00:00Z", 
+            "Average": 34.91983333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T14:00:00Z", 
+            "Average": 35.56883333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T21:00:00Z", 
+            "Average": 39.60716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T17:00:00Z", 
+            "Average": 32.11483333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T23:00:00Z", 
+            "Average": 0.39733333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T16:00:00Z", 
+            "Average": 37.434, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T19:00:00Z", 
+            "Average": 35.46266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T01:00:00Z", 
+            "Average": 36.043, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T04:00:00Z", 
+            "Average": 35.21816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T07:00:00Z", 
+            "Average": 37.46566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T00:00:00Z", 
+            "Average": 0.4088333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T03:00:00Z", 
+            "Average": 0.3728333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T11:00:00Z", 
+            "Average": 35.63433333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T13:00:00Z", 
+            "Average": 34.334666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T16:00:00Z", 
+            "Average": 0.37266666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T19:00:00Z", 
+            "Average": 34.915166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T12:00:00Z", 
+            "Average": 31.761666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T15:00:00Z", 
+            "Average": 37.04233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T18:00:00Z", 
+            "Average": 35.72283333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T19:00:00Z", 
+            "Average": 38.3215, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T00:00:00Z", 
+            "Average": 36.80566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T20:00:00Z", 
+            "Average": 0.38216666666666654, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T02:00:00Z", 
+            "Average": 36.71033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T22:00:00Z", 
+            "Average": 30.815499999999997, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T18:00:00Z", 
+            "Average": 32.57783333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T20:00:00Z", 
+            "Average": 36.93216666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T02:00:00Z", 
+            "Average": 35.82833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T22:00:00Z", 
+            "Average": 32.88733333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T01:00:00Z", 
+            "Average": 35.720000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T02:00:00Z", 
+            "Average": 37.28033333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T13:00:00Z", 
+            "Average": 0.4504999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T09:00:00Z", 
+            "Average": 36.696000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T05:00:00Z", 
+            "Average": 0.3798333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T01:00:00Z", 
+            "Average": 31.340499999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T21:00:00Z", 
+            "Average": 36.915333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T23:00:00Z", 
+            "Average": 38.6, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T09:00:00Z", 
+            "Average": 35.55916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T05:00:00Z", 
+            "Average": 37.71566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T08:00:00Z", 
+            "Average": 36.089333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T11:00:00Z", 
+            "Average": 0.3745, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T07:00:00Z", 
+            "Average": 35.51833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T20:00:00Z", 
+            "Average": 35.575, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T16:00:00Z", 
+            "Average": 0.421, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T12:00:00Z", 
+            "Average": 0.3743333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T15:00:00Z", 
+            "Average": 0.3453333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T12:00:00Z", 
+            "Average": 37.4705, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T15:00:00Z", 
+            "Average": 35.79866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T08:00:00Z", 
+            "Average": 36.48683333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T11:00:00Z", 
+            "Average": 0.3878333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T04:00:00Z", 
+            "Average": 36.29433333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T07:00:00Z", 
+            "Average": 34.3165, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T06:00:00Z", 
+            "Average": 39.1305, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T16:00:00Z", 
+            "Average": 35.772666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T22:00:00Z", 
+            "Average": 0.35633333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T18:00:00Z", 
+            "Average": 0.3633333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T14:00:00Z", 
+            "Average": 35.538500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T10:00:00Z", 
+            "Average": 35.40016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T06:00:00Z", 
+            "Average": 0.44199999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T05:00:00Z", 
+            "Average": 32.9545, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T01:00:00Z", 
+            "Average": 34.621833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T11:00:00Z", 
+            "Average": 34.82783333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T14:00:00Z", 
+            "Average": 34.839666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T13:00:00Z", 
+            "Average": 7.888999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T09:00:00Z", 
+            "Average": 35.4765, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T15:00:00Z", 
+            "Average": 0.373, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T11:00:00Z", 
+            "Average": 34.920833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T07:00:00Z", 
+            "Average": 35.936666666666675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T19:00:00Z", 
+            "Average": 37.84550000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T15:00:00Z", 
+            "Average": 35.82166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T11:00:00Z", 
+            "Average": 34.01583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T00:00:00Z", 
+            "Average": 35.177, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T20:00:00Z", 
+            "Average": 33.4775, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T02:00:00Z", 
+            "Average": 34.611000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T08:00:00Z", 
+            "Average": 38.6545, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T04:00:00Z", 
+            "Average": 0.4198333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T00:00:00Z", 
+            "Average": 36.43866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T20:00:00Z", 
+            "Average": 34.8325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T02:00:00Z", 
+            "Average": 0.3931666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T22:00:00Z", 
+            "Average": 36.687, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T04:00:00Z", 
+            "Average": 37.87883333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T10:00:00Z", 
+            "Average": 37.79383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T06:00:00Z", 
+            "Average": 0.4516666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T09:00:00Z", 
+            "Average": 0.3418333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T05:00:00Z", 
+            "Average": 0.3565, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T10:00:00Z", 
+            "Average": 33.93116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T01:00:00Z", 
+            "Average": 32.437, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T17:00:00Z", 
+            "Average": 37.39266666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T21:00:00Z", 
+            "Average": 34.58616666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T06:00:00Z", 
+            "Average": 0.5223333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T09:00:00Z", 
+            "Average": 39.034666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T13:00:00Z", 
+            "Average": 34.54866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T05:00:00Z", 
+            "Average": 0.3821666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T01:00:00Z", 
+            "Average": 32.50516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T07:00:00Z", 
+            "Average": 0.37516666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T03:00:00Z", 
+            "Average": 36.8785, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T16:00:00Z", 
+            "Average": 35.10266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T15:00:00Z", 
+            "Average": 35.05716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T11:00:00Z", 
+            "Average": 35.720333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T23:00:00Z", 
+            "Average": 33.098, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T19:00:00Z", 
+            "Average": 32.95316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T08:00:00Z", 
+            "Average": 0.38299999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T04:00:00Z", 
+            "Average": 40.401833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T03:00:00Z", 
+            "Average": 0.45699999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T16:00:00Z", 
+            "Average": 37.35, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T03:00:00Z", 
+            "Average": 38.81783333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T12:00:00Z", 
+            "Average": 36.864999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T18:00:00Z", 
+            "Average": 2.7441666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T14:00:00Z", 
+            "Average": 36.45249999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T12:00:00Z", 
+            "Average": 35.537166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T18:00:00Z", 
+            "Average": 0.3549999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T14:00:00Z", 
+            "Average": 0.3636666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T23:00:00Z", 
+            "Average": 37.502833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T10:00:00Z", 
+            "Average": 34.1215, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T13:00:00Z", 
+            "Average": 0.3711666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T09:00:00Z", 
+            "Average": 37.73500000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T15:00:00Z", 
+            "Average": 36.44050000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T12:00:00Z", 
+            "Average": 38.149, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T21:00:00Z", 
+            "Average": 36.649, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T17:00:00Z", 
+            "Average": 0.3801666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T13:00:00Z", 
+            "Average": 36.406, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T09:00:00Z", 
+            "Average": 0.3784999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T07:00:00Z", 
+            "Average": 36.84916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T15:00:00Z", 
+            "Average": 31.19183333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T17:00:00Z", 
+            "Average": 35.36716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T23:00:00Z", 
+            "Average": 34.309, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T19:00:00Z", 
+            "Average": 3.5676666666666668, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T08:00:00Z", 
+            "Average": 36.906166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T04:00:00Z", 
+            "Average": 27.70516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T00:00:00Z", 
+            "Average": 34.589000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T00:00:00Z", 
+            "Average": 29.021166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T19:00:00Z", 
+            "Average": 0.3950000000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T08:00:00Z", 
+            "Average": 0.3465, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T04:00:00Z", 
+            "Average": 0.3788333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T16:00:00Z", 
+            "Average": 36.5, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T10:00:00Z", 
+            "Average": 36.42833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T06:00:00Z", 
+            "Average": 33.681666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T05:00:00Z", 
+            "Average": 35.378166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T18:00:00Z", 
+            "Average": 37.918499999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T22:00:00Z", 
+            "Average": 36.748333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T14:00:00Z", 
+            "Average": 9.496666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T15:00:00Z", 
+            "Average": 37.54366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T21:00:00Z", 
+            "Average": 41.606, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T00:00:00Z", 
+            "Average": 35.29633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T19:00:00Z", 
+            "Average": 32.339666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T08:00:00Z", 
+            "Average": 37.84766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T18:00:00Z", 
+            "Average": 34.30416666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T03:00:00Z", 
+            "Average": 34.4725, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T17:00:00Z", 
+            "Average": 36.22783333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T09:00:00Z", 
+            "Average": 0.35766666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T02:00:00Z", 
+            "Average": 38.017166666666675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T19:00:00Z", 
+            "Average": 0.36716666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T09:00:00Z", 
+            "Average": 0.3638333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T18:00:00Z", 
+            "Average": 35.81666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T08:00:00Z", 
+            "Average": 0.3631666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T01:00:00Z", 
+            "Average": 34.620666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T22:00:00Z", 
+            "Average": 34.992333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T12:00:00Z", 
+            "Average": 36.279, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T07:00:00Z", 
+            "Average": 0.3826666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T06:00:00Z", 
+            "Average": 35.69483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T20:00:00Z", 
+            "Average": 35.888, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T23:00:00Z", 
+            "Average": 35.908, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T12:00:00Z", 
+            "Average": 0.35766666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T22:00:00Z", 
+            "Average": 36.24033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T07:00:00Z", 
+            "Average": 0.332, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T21:00:00Z", 
+            "Average": 20.412333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T14:00:00Z", 
+            "Average": 37.92016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T20:00:00Z", 
+            "Average": 35.15683333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T13:00:00Z", 
+            "Average": 32.818333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T06:00:00Z", 
+            "Average": 0.40650000000000014, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T05:00:00Z", 
+            "Average": 45.97633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T16:00:00Z", 
+            "Average": 38.40516666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T00:00:00Z", 
+            "Average": 30.459500000000002, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T10:00:00Z", 
+            "Average": 28.169833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T03:00:00Z", 
+            "Average": 36.88166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T11:00:00Z", 
+            "Average": 33.81383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T10:00:00Z", 
+            "Average": 0.37666666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T00:00:00Z", 
+            "Average": 0.37083333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T18:00:00Z", 
+            "Average": 34.54116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T09:00:00Z", 
+            "Average": 0.44383333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T19:00:00Z", 
+            "Average": 38.696666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T08:00:00Z", 
+            "Average": 37.549, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T01:00:00Z", 
+            "Average": 1.7376666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T18:00:00Z", 
+            "Average": 37.63666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T11:00:00Z", 
+            "Average": 38.662, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T03:00:00Z", 
+            "Average": 0.3896666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T17:00:00Z", 
+            "Average": 0.3616666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T20:00:00Z", 
+            "Average": 36.981, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T14:00:00Z", 
+            "Average": 0.3785, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T04:00:00Z", 
+            "Average": 33.423500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T23:00:00Z", 
+            "Average": 0.3355, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T05:00:00Z", 
+            "Average": 0.38233333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T22:00:00Z", 
+            "Average": 37.39866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T15:00:00Z", 
+            "Average": 0.38699999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T04:00:00Z", 
+            "Average": 0.37116666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T21:00:00Z", 
+            "Average": 36.81316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T14:00:00Z", 
+            "Average": 0.3786666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T23:00:00Z", 
+            "Average": 38.54316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T15:00:00Z", 
+            "Average": 34.51483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T05:00:00Z", 
+            "Average": 0.3446666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T08:00:00Z", 
+            "Average": 35.51, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T02:00:00Z", 
+            "Average": 38.85483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T16:00:00Z", 
+            "Average": 35.394000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T01:00:00Z", 
+            "Average": 36.334500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T18:00:00Z", 
+            "Average": 33.82933333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T08:00:00Z", 
+            "Average": 0.37450000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T03:00:00Z", 
+            "Average": 36.554833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T16:00:00Z", 
+            "Average": 37.44616666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T10:00:00Z", 
+            "Average": 37.935500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T09:00:00Z", 
+            "Average": 36.16983333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T02:00:00Z", 
+            "Average": 0.37116666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T19:00:00Z", 
+            "Average": 36.643, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T12:00:00Z", 
+            "Average": 34.28366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T17:00:00Z", 
+            "Average": 36.61116666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T20:00:00Z", 
+            "Average": 35.9385, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T06:00:00Z", 
+            "Average": 37.609500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T20:00:00Z", 
+            "Average": 33.905166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T06:00:00Z", 
+            "Average": 0.44949999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T15:00:00Z", 
+            "Average": 37.0965, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T14:00:00Z", 
+            "Average": 0.45333333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T04:00:00Z", 
+            "Average": 38.33400000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T07:00:00Z", 
+            "Average": 54.81616666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T21:00:00Z", 
+            "Average": 35.229, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T13:00:00Z", 
+            "Average": 34.497499999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T05:00:00Z", 
+            "Average": 34.86716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T23:00:00Z", 
+            "Average": 36.52116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T17:00:00Z", 
+            "Average": 32.43666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T00:00:00Z", 
+            "Average": 34.198499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T03:00:00Z", 
+            "Average": 0.3831666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T10:00:00Z", 
+            "Average": 0.3788333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T15:00:00Z", 
+            "Average": 34.904833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T18:00:00Z", 
+            "Average": 38.7745, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T01:00:00Z", 
+            "Average": 38.37766666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T11:00:00Z", 
+            "Average": 0.45849999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T00:00:00Z", 
+            "Average": 0.3938333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T03:00:00Z", 
+            "Average": 34.256166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T10:00:00Z", 
+            "Average": 0.3508333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T17:00:00Z", 
+            "Average": 36.989000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T21:00:00Z", 
+            "Average": 36.741, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T12:00:00Z", 
+            "Average": 0.36766666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T15:00:00Z", 
+            "Average": 32.032999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T22:00:00Z", 
+            "Average": 0.37466666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T05:00:00Z", 
+            "Average": 35.605000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T04:00:00Z", 
+            "Average": 36.022999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T21:00:00Z", 
+            "Average": 34.66016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T04:00:00Z", 
+            "Average": 0.4086666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T07:00:00Z", 
+            "Average": 37.053999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T14:00:00Z", 
+            "Average": 36.371, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T22:00:00Z", 
+            "Average": 36.80616666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T05:00:00Z", 
+            "Average": 0.3768333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T12:00:00Z", 
+            "Average": 0.45683333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T15:00:00Z", 
+            "Average": 36.008333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T06:00:00Z", 
+            "Average": 36.71966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T13:00:00Z", 
+            "Average": 38.664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T08:00:00Z", 
+            "Average": 42.180166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T02:00:00Z", 
+            "Average": 35.962333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T09:00:00Z", 
+            "Average": 35.67633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T16:00:00Z", 
+            "Average": 30.93416666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T19:00:00Z", 
+            "Average": 38.713166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T11:00:00Z", 
+            "Average": 35.146166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T16:00:00Z", 
+            "Average": 32.57116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T19:00:00Z", 
+            "Average": 33.21183333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T02:00:00Z", 
+            "Average": 37.353833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T09:00:00Z", 
+            "Average": 0.3506666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T17:00:00Z", 
+            "Average": 35.736666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T00:00:00Z", 
+            "Average": 36.8215, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T03:00:00Z", 
+            "Average": 0.3416666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T10:00:00Z", 
+            "Average": 35.89516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T17:00:00Z", 
+            "Average": 36.45666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T19:00:00Z", 
+            "Average": 35.754666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T02:00:00Z", 
+            "Average": 44.46533333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T23:00:00Z", 
+            "Average": 31.84633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T06:00:00Z", 
+            "Average": 0.4428333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T13:00:00Z", 
+            "Average": 0.36549999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T21:00:00Z", 
+            "Average": 35.49766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T07:00:00Z", 
+            "Average": 35.037666666666674, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T14:00:00Z", 
+            "Average": 36.55083333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T20:00:00Z", 
+            "Average": 0.3731666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T06:00:00Z", 
+            "Average": 35.004000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T13:00:00Z", 
+            "Average": 0.36749999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T20:00:00Z", 
+            "Average": 35.68033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T23:00:00Z", 
+            "Average": 38.754666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T12:00:00Z", 
+            "Average": 33.946666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T18:00:00Z", 
+            "Average": 0.3711666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T01:00:00Z", 
+            "Average": 33.320499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T08:00:00Z", 
+            "Average": 0.34133333333333327, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T11:00:00Z", 
+            "Average": 0.3633333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T00:00:00Z", 
+            "Average": 36.35666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T03:00:00Z", 
+            "Average": 37.339333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T10:00:00Z", 
+            "Average": 54.838166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T17:00:00Z", 
+            "Average": 36.803666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T01:00:00Z", 
+            "Average": 0.39366666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T08:00:00Z", 
+            "Average": 33.902166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T11:00:00Z", 
+            "Average": 0.3666666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T18:00:00Z", 
+            "Average": 19.979666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T09:00:00Z", 
+            "Average": 35.477833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T00:00:00Z", 
+            "Average": 37.1055, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T16:00:00Z", 
+            "Average": 34.89216666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T04:00:00Z", 
+            "Average": 37.04766666666668, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T22:00:00Z", 
+            "Average": 37.78066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T05:00:00Z", 
+            "Average": 35.80666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T07:00:00Z", 
+            "Average": 42.747166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T22:00:00Z", 
+            "Average": 31.630166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T05:00:00Z", 
+            "Average": 0.3931666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T12:00:00Z", 
+            "Average": 0.37516666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T15:00:00Z", 
+            "Average": 34.85066666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T20:00:00Z", 
+            "Average": 37.665333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T23:00:00Z", 
+            "Average": 1.2211666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T06:00:00Z", 
+            "Average": 34.525666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T13:00:00Z", 
+            "Average": 38.303666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T05:00:00Z", 
+            "Average": 0.3415, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T04:00:00Z", 
+            "Average": 34.19016666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T07:00:00Z", 
+            "Average": 34.1635, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T10:00:00Z", 
+            "Average": 36.573166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T13:00:00Z", 
+            "Average": 36.262499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T11:00:00Z", 
+            "Average": 0.35599999999999987, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T17:00:00Z", 
+            "Average": 31.718999999999998, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T16:00:00Z", 
+            "Average": 0.38433333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T19:00:00Z", 
+            "Average": 37.02066666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T08:00:00Z", 
+            "Average": 54.85816666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T11:00:00Z", 
+            "Average": 35.98683333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T14:00:00Z", 
+            "Average": 7.937, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T17:00:00Z", 
+            "Average": 19.869666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T16:00:00Z", 
+            "Average": 36.759, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T22:00:00Z", 
+            "Average": 0.38233333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T20:00:00Z", 
+            "Average": 36.210166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T23:00:00Z", 
+            "Average": 0.3731666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T22:00:00Z", 
+            "Average": 34.67516666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T15:00:00Z", 
+            "Average": 49.19383333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T21:00:00Z", 
+            "Average": 33.505833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T20:00:00Z", 
+            "Average": 36.54883333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T23:00:00Z", 
+            "Average": 37.422, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T02:00:00Z", 
+            "Average": 35.90933333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T05:00:00Z", 
+            "Average": 0.3673333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T04:00:00Z", 
+            "Average": 35.33383333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T10:00:00Z", 
+            "Average": 0.3621666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T03:00:00Z", 
+            "Average": 36.19616666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T18:00:00Z", 
+            "Average": 39.90533333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T02:00:00Z", 
+            "Average": 36.648833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T05:00:00Z", 
+            "Average": 36.81733333333332, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T10:00:00Z", 
+            "Average": 33.69833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T03:00:00Z", 
+            "Average": 31.160166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T16:00:00Z", 
+            "Average": 37.8675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T09:00:00Z", 
+            "Average": 36.06316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T08:00:00Z", 
+            "Average": 0.3825, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T11:00:00Z", 
+            "Average": 35.15, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T14:00:00Z", 
+            "Average": 0.39749999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T17:00:00Z", 
+            "Average": 0.352, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T01:00:00Z", 
+            "Average": 39.0015, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T01:00:00Z", 
+            "Average": 0.39516666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T00:00:00Z", 
+            "Average": 31.77766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T03:00:00Z", 
+            "Average": 37.49883333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T06:00:00Z", 
+            "Average": 0.41183333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T09:00:00Z", 
+            "Average": 37.909166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T07:00:00Z", 
+            "Average": 0.38266666666666654, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T13:00:00Z", 
+            "Average": 32.71216666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T12:00:00Z", 
+            "Average": 34.38066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T15:00:00Z", 
+            "Average": 35.80016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T04:00:00Z", 
+            "Average": 35.70583333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T07:00:00Z", 
+            "Average": 37.41716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T13:00:00Z", 
+            "Average": 1.8475000000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T12:00:00Z", 
+            "Average": 37.05916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T18:00:00Z", 
+            "Average": 0.3411666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T10:00:00Z", 
+            "Average": 36.88283333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T16:00:00Z", 
+            "Average": 30.641666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T19:00:00Z", 
+            "Average": 30.588499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T08:00:00Z", 
+            "Average": 36.89066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T02:00:00Z", 
+            "Average": 32.41683333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T18:00:00Z", 
+            "Average": 0.47033333333333327, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T11:00:00Z", 
+            "Average": 34.64433333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T17:00:00Z", 
+            "Average": 33.70166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T16:00:00Z", 
+            "Average": 14.715499999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T19:00:00Z", 
+            "Average": 36.6565, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T22:00:00Z", 
+            "Average": 32.60483333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T01:00:00Z", 
+            "Average": 0.3688333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T00:00:00Z", 
+            "Average": 0.3411666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T06:00:00Z", 
+            "Average": 0.4529999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T23:00:00Z", 
+            "Average": 37.44550000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T14:00:00Z", 
+            "Average": 37.509499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T22:00:00Z", 
+            "Average": 30.482666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T15:00:00Z", 
+            "Average": 37.229, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T09:00:00Z", 
+            "Average": 34.758, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T01:00:00Z", 
+            "Average": 0.4603333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T00:00:00Z", 
+            "Average": 38.85333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T06:00:00Z", 
+            "Average": 37.339000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T23:00:00Z", 
+            "Average": 32.76283333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T05:00:00Z", 
+            "Average": 30.66333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T04:00:00Z", 
+            "Average": 0.4163333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T07:00:00Z", 
+            "Average": 0.35983333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T10:00:00Z", 
+            "Average": 35.06516666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T13:00:00Z", 
+            "Average": 0.47566666666666674, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T21:00:00Z", 
+            "Average": 45.07716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T12:00:00Z", 
+            "Average": 35.126333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T13:00:00Z", 
+            "Average": 35.33716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T20:00:00Z", 
+            "Average": 8.100833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T19:00:00Z", 
+            "Average": 34.32616666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T21:00:00Z", 
+            "Average": 38.68866666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T03:00:00Z", 
+            "Average": 36.51133333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T10:00:00Z", 
+            "Average": 41.223, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T02:00:00Z", 
+            "Average": 0.36533333333333323, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T08:00:00Z", 
+            "Average": 0.3375, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T01:00:00Z", 
+            "Average": 0.43816666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T00:00:00Z", 
+            "Average": 38.76533333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T17:00:00Z", 
+            "Average": 36.00116666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T01:00:00Z", 
+            "Average": 36.34983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T08:00:00Z", 
+            "Average": 0.3581666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T07:00:00Z", 
+            "Average": 34.349333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T06:00:00Z", 
+            "Average": 37.76883333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T14:00:00Z", 
+            "Average": 39.267833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T07:00:00Z", 
+            "Average": 0.3741666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T14:00:00Z", 
+            "Average": 29.300999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T04:00:00Z", 
+            "Average": 39.563833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T06:00:00Z", 
+            "Average": 31.731333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T12:00:00Z", 
+            "Average": 34.296166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T05:00:00Z", 
+            "Average": 54.7975, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T20:00:00Z", 
+            "Average": 0.36150000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T13:00:00Z", 
+            "Average": 36.5895, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T19:00:00Z", 
+            "Average": 0.38083333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T02:00:00Z", 
+            "Average": 35.1935, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T18:00:00Z", 
+            "Average": 32.9655, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T11:00:00Z", 
+            "Average": 34.746500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T11:00:00Z", 
+            "Average": 0.3755, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T18:00:00Z", 
+            "Average": 0.4063333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T13:00:00Z", 
+            "Average": 38.73116666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T20:00:00Z", 
+            "Average": 38.277166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T02:00:00Z", 
+            "Average": 38.54083333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T19:00:00Z", 
+            "Average": 39.377500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T17:00:00Z", 
+            "Average": 35.37916666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T00:00:00Z", 
+            "Average": 0.3931666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T15:00:00Z", 
+            "Average": 39.278000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T09:00:00Z", 
+            "Average": 36.82150000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T23:00:00Z", 
+            "Average": 36.64933333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T08:00:00Z", 
+            "Average": 37.53866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T01:00:00Z", 
+            "Average": 35.185833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T09:00:00Z", 
+            "Average": 35.50783333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T16:00:00Z", 
+            "Average": 31.651500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T17:00:00Z", 
+            "Average": 37.63699999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T23:00:00Z", 
+            "Average": 39.625, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T15:00:00Z", 
+            "Average": 0.4026666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T22:00:00Z", 
+            "Average": 37.10483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T21:00:00Z", 
+            "Average": 0.39549999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T04:00:00Z", 
+            "Average": 0.4176666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T06:00:00Z", 
+            "Average": 38.027166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T20:00:00Z", 
+            "Average": 37.6725, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T13:00:00Z", 
+            "Average": 35.52166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T15:00:00Z", 
+            "Average": 0.3431666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T22:00:00Z", 
+            "Average": 37.69083333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T04:00:00Z", 
+            "Average": 0.40099999999999997, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T21:00:00Z", 
+            "Average": 33.91983333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T02:00:00Z", 
+            "Average": 37.31316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T03:00:00Z", 
+            "Average": 0.3616666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T10:00:00Z", 
+            "Average": 40.318999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T03:00:00Z", 
+            "Average": 0.3975, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T00:00:00Z", 
+            "Average": 49.51083333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T19:00:00Z", 
+            "Average": 35.141666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T02:00:00Z", 
+            "Average": 35.54266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T18:00:00Z", 
+            "Average": 37.09766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T01:00:00Z", 
+            "Average": 38.788666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T08:00:00Z", 
+            "Average": 37.7735, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T10:00:00Z", 
+            "Average": 0.3443333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T16:00:00Z", 
+            "Average": 14.70833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T09:00:00Z", 
+            "Average": 34.8495, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T14:00:00Z", 
+            "Average": 33.54833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T07:00:00Z", 
+            "Average": 40.50933333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T09:00:00Z", 
+            "Average": 38.48633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T16:00:00Z", 
+            "Average": 37.29133333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T15:00:00Z", 
+            "Average": 0.47183333333333327, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T22:00:00Z", 
+            "Average": 37.286500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T07:00:00Z", 
+            "Average": 36.02366666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T14:00:00Z", 
+            "Average": 0.37066666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T13:00:00Z", 
+            "Average": 0.37699999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T20:00:00Z", 
+            "Average": 32.419666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T23:00:00Z", 
+            "Average": 36.681000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T11:00:00Z", 
+            "Average": 38.00566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T12:00:00Z", 
+            "Average": 36.120999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T05:00:00Z", 
+            "Average": 34.89383333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T21:00:00Z", 
+            "Average": 0.3396666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T04:00:00Z", 
+            "Average": 0.4845, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T12:00:00Z", 
+            "Average": 0.36616666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T08:00:00Z", 
+            "Average": 36.650333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T03:00:00Z", 
+            "Average": 35.833999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T23:00:00Z", 
+            "Average": 21.309833333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T16:00:00Z", 
+            "Average": 0.3465, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T01:00:00Z", 
+            "Average": 36.255833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T11:00:00Z", 
+            "Average": 38.126999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T07:00:00Z", 
+            "Average": 0.3773333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T10:00:00Z", 
+            "Average": 0.36549999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T21:00:00Z", 
+            "Average": 34.77816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T10:00:00Z", 
+            "Average": 34.77016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T06:00:00Z", 
+            "Average": 38.65783333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T08:00:00Z", 
+            "Average": 35.9825, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T05:00:00Z", 
+            "Average": 0.3896666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T01:00:00Z", 
+            "Average": 32.45883333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T18:00:00Z", 
+            "Average": 40.82, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T14:00:00Z", 
+            "Average": 19.371833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T09:00:00Z", 
+            "Average": 33.80133333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T05:00:00Z", 
+            "Average": 38.842999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T20:00:00Z", 
+            "Average": 35.75033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T01:00:00Z", 
+            "Average": 38.49133333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T04:00:00Z", 
+            "Average": 36.77933333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T19:00:00Z", 
+            "Average": 34.1575, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T12:00:00Z", 
+            "Average": 0.4084999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T08:00:00Z", 
+            "Average": 34.95266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T07:00:00Z", 
+            "Average": 36.44633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T03:00:00Z", 
+            "Average": 36.82299999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T23:00:00Z", 
+            "Average": 32.33266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T16:00:00Z", 
+            "Average": 38.494, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T23:00:00Z", 
+            "Average": 0.37983333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T19:00:00Z", 
+            "Average": 0.3856666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T12:00:00Z", 
+            "Average": 37.57566666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T15:00:00Z", 
+            "Average": 35.790333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T08:00:00Z", 
+            "Average": 35.56700000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T03:00:00Z", 
+            "Average": 39.046166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T02:00:00Z", 
+            "Average": 46.72833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T21:00:00Z", 
+            "Average": 0.4218965517241379, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T14:00:00Z", 
+            "Average": 37.33616666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T17:00:00Z", 
+            "Average": 36.74566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T10:00:00Z", 
+            "Average": 35.81483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T06:00:00Z", 
+            "Average": 0.41950000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T18:00:00Z", 
+            "Average": 0.3975, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T15:00:00Z", 
+            "Average": 38.242333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T14:00:00Z", 
+            "Average": 33.98866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T13:00:00Z", 
+            "Average": 38.9435, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T00:00:00Z", 
+            "Average": 39.81266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T09:00:00Z", 
+            "Average": 36.849333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T02:00:00Z", 
+            "Average": 38.538166666666676, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T22:00:00Z", 
+            "Average": 0.364, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T05:00:00Z", 
+            "Average": 39.01149999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T17:00:00Z", 
+            "Average": 0.47283333333333327, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T02:00:00Z", 
+            "Average": 36.70733333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T16:00:00Z", 
+            "Average": 33.884833333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T13:00:00Z", 
+            "Average": 38.91716666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T03:00:00Z", 
+            "Average": 36.803666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T20:00:00Z", 
+            "Average": 38.0595, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T16:00:00Z", 
+            "Average": 34.84016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T12:00:00Z", 
+            "Average": 36.339000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T22:00:00Z", 
+            "Average": 45.2125, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T11:00:00Z", 
+            "Average": 36.43783333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T07:00:00Z", 
+            "Average": 38.7125, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T00:00:00Z", 
+            "Average": 0.45733333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T15:00:00Z", 
+            "Average": 36.3135, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T11:00:00Z", 
+            "Average": 0.43083333333333323, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T07:00:00Z", 
+            "Average": 0.3563333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T10:00:00Z", 
+            "Average": 37.220666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T05:00:00Z", 
+            "Average": 35.824333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T18:00:00Z", 
+            "Average": 31.35183333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T14:00:00Z", 
+            "Average": 33.04266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T13:00:00Z", 
+            "Average": 0.3486666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T09:00:00Z", 
+            "Average": 38.268499999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T21:00:00Z", 
+            "Average": 36.65233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T22:00:00Z", 
+            "Average": 36.27583333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T05:00:00Z", 
+            "Average": 0.37299999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T18:00:00Z", 
+            "Average": 0.33383333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T01:00:00Z", 
+            "Average": 30.933333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T14:00:00Z", 
+            "Average": 32.277166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T17:00:00Z", 
+            "Average": 39.555, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T09:00:00Z", 
+            "Average": 0.356, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T12:00:00Z", 
+            "Average": 35.12883333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T19:00:00Z", 
+            "Average": 38.212333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T03:00:00Z", 
+            "Average": 0.3858333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T20:00:00Z", 
+            "Average": 35.55216666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T04:00:00Z", 
+            "Average": 33.931999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T16:00:00Z", 
+            "Average": 31.24233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T07:00:00Z", 
+            "Average": 0.35766666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T00:00:00Z", 
+            "Average": 34.430166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T12:00:00Z", 
+            "Average": 35.38033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T08:00:00Z", 
+            "Average": 0.37699999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T15:00:00Z", 
+            "Average": 0.3543333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T11:00:00Z", 
+            "Average": 0.36350000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T04:00:00Z", 
+            "Average": 35.74166666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T02:00:00Z", 
+            "Average": 0.369, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T09:00:00Z", 
+            "Average": 0.3638333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T05:00:00Z", 
+            "Average": 37.886, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T22:00:00Z", 
+            "Average": 34.82633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T10:00:00Z", 
+            "Average": 37.604166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T06:00:00Z", 
+            "Average": 36.754999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T13:00:00Z", 
+            "Average": 0.349, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T13:00:00Z", 
+            "Average": 35.959666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T06:00:00Z", 
+            "Average": 37.61883333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T07:00:00Z", 
+            "Average": 36.26233333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-22T00:00:00Z", 
+            "Average": 0.40083333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T03:00:00Z", 
+            "Average": 0.40166666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T20:00:00Z", 
+            "Average": 37.63966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T19:00:00Z", 
+            "Average": 37.7825, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T15:00:00Z", 
+            "Average": 24.212999999999997, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T08:00:00Z", 
+            "Average": 38.0285, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T04:00:00Z", 
+            "Average": 35.47866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T11:00:00Z", 
+            "Average": 0.39216666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T04:00:00Z", 
+            "Average": 37.73183333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T07:00:00Z", 
+            "Average": 34.6305, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-05T00:00:00Z", 
+            "Average": 0.384, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T20:00:00Z", 
+            "Average": 0.40083333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T03:00:00Z", 
+            "Average": 0.3561666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T04:00:00Z", 
+            "Average": 34.06483333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T11:00:00Z", 
+            "Average": 37.717666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T18:00:00Z", 
+            "Average": 34.919666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T02:00:00Z", 
+            "Average": 0.37649999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T09:00:00Z", 
+            "Average": 0.3808333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T22:00:00Z", 
+            "Average": 0.39516666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T05:00:00Z", 
+            "Average": 31.921333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-11T01:00:00Z", 
+            "Average": 35.900999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T17:00:00Z", 
+            "Average": 36.519999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T13:00:00Z", 
+            "Average": 35.97866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T06:00:00Z", 
+            "Average": 34.182333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T18:00:00Z", 
+            "Average": 36.456, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T14:00:00Z", 
+            "Average": 37.415499999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T21:00:00Z", 
+            "Average": 0.3506666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T16:00:00Z", 
+            "Average": 35.52033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T23:00:00Z", 
+            "Average": 38.57116666666668, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T10:00:00Z", 
+            "Average": 35.31066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T17:00:00Z", 
+            "Average": 0.39749999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T01:00:00Z", 
+            "Average": 36.56016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T01:00:00Z", 
+            "Average": 38.2225, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T18:00:00Z", 
+            "Average": 38.30216666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T08:00:00Z", 
+            "Average": 38.660666666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T21:00:00Z", 
+            "Average": 39.280166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T08:00:00Z", 
+            "Average": 36.23833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T11:00:00Z", 
+            "Average": 34.66633333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-16T23:00:00Z", 
+            "Average": 38.17966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T16:00:00Z", 
+            "Average": 0.34466666666666673, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T12:00:00Z", 
+            "Average": 37.83983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T19:00:00Z", 
+            "Average": 0.41050000000000003, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T15:00:00Z", 
+            "Average": 0.3953333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T19:00:00Z", 
+            "Average": 36.191500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T12:00:00Z", 
+            "Average": 0.3473333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T06:00:00Z", 
+            "Average": 0.3998333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T13:00:00Z", 
+            "Average": 35.73416666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T09:00:00Z", 
+            "Average": 33.365, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T05:00:00Z", 
+            "Average": 34.7575, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-27T22:00:00Z", 
+            "Average": 37.474333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T14:00:00Z", 
+            "Average": 0.33733333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T21:00:00Z", 
+            "Average": 0.4713333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T10:00:00Z", 
+            "Average": 0.35816666666666663, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T17:00:00Z", 
+            "Average": 39.02883333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T10:00:00Z", 
+            "Average": 0.38433333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T17:00:00Z", 
+            "Average": 0.3543333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T13:00:00Z", 
+            "Average": 35.79866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T06:00:00Z", 
+            "Average": 37.430166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T09:00:00Z", 
+            "Average": 34.98833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T02:00:00Z", 
+            "Average": 0.38699999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T14:00:00Z", 
+            "Average": 32.279833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T20:00:00Z", 
+            "Average": 39.786500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T15:00:00Z", 
+            "Average": 35.083999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T08:00:00Z", 
+            "Average": 0.36183333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T04:00:00Z", 
+            "Average": 40.1675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T11:00:00Z", 
+            "Average": 35.13516666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T07:00:00Z", 
+            "Average": 36.398, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T19:00:00Z", 
+            "Average": 36.74683333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T15:00:00Z", 
+            "Average": 36.571, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T17:00:00Z", 
+            "Average": 38.517, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T11:00:00Z", 
+            "Average": 34.675666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-07T00:00:00Z", 
+            "Average": 35.413166666666676, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T20:00:00Z", 
+            "Average": 0.4139999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-14T23:00:00Z", 
+            "Average": 36.16133333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T16:00:00Z", 
+            "Average": 34.54116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T22:00:00Z", 
+            "Average": 34.643, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-25T23:00:00Z", 
+            "Average": 45.80983333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T04:00:00Z", 
+            "Average": 38.72, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T10:00:00Z", 
+            "Average": 38.16966666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T06:00:00Z", 
+            "Average": 0.39733333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T02:00:00Z", 
+            "Average": 0.39149999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T02:00:00Z", 
+            "Average": 34.21666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T22:00:00Z", 
+            "Average": 36.61233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-29T00:00:00Z", 
+            "Average": 37.2445, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T18:00:00Z", 
+            "Average": 34.7335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T06:00:00Z", 
+            "Average": 33.965500000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T09:00:00Z", 
+            "Average": 0.38083333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T06:00:00Z", 
+            "Average": 44.303999999999995, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T05:00:00Z", 
+            "Average": 35.387166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T17:00:00Z", 
+            "Average": 37.23466666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T13:00:00Z", 
+            "Average": 0.33749999999999997, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T09:00:00Z", 
+            "Average": 39.67316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T05:00:00Z", 
+            "Average": 31.697833333333328, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T01:00:00Z", 
+            "Average": 36.915499999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T03:00:00Z", 
+            "Average": 38.76649999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T13:00:00Z", 
+            "Average": 35.560500000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T16:00:00Z", 
+            "Average": 0.3966666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T19:00:00Z", 
+            "Average": 0.3353333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T12:00:00Z", 
+            "Average": 35.73300000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T15:00:00Z", 
+            "Average": 34.52816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T11:00:00Z", 
+            "Average": 0.3735, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-18T00:00:00Z", 
+            "Average": 38.518666666666675, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T20:00:00Z", 
+            "Average": 0.33383333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T16:00:00Z", 
+            "Average": 35.886333333333326, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T19:00:00Z", 
+            "Average": 42.7985, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T12:00:00Z", 
+            "Average": 35.56016666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T15:00:00Z", 
+            "Average": 20.743666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T10:00:00Z", 
+            "Average": 38.11033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T18:00:00Z", 
+            "Average": 33.867333333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T20:00:00Z", 
+            "Average": 0.475, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T02:00:00Z", 
+            "Average": 0.34666666666666673, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T22:00:00Z", 
+            "Average": 34.51083333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T14:00:00Z", 
+            "Average": 36.562, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T10:00:00Z", 
+            "Average": 0.37166666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T18:00:00Z", 
+            "Average": 36.29716666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T21:00:00Z", 
+            "Average": 0.3746666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T17:00:00Z", 
+            "Average": 35.101, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-09T23:00:00Z", 
+            "Average": 38.641333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T05:00:00Z", 
+            "Average": 38.453833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T01:00:00Z", 
+            "Average": 0.37666666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T01:00:00Z", 
+            "Average": 36.0615, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T21:00:00Z", 
+            "Average": 38.295833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T17:00:00Z", 
+            "Average": 31.303166666666662, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T14:00:00Z", 
+            "Average": 36.327833333333345, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-20T23:00:00Z", 
+            "Average": 0.38433333333333325, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T19:00:00Z", 
+            "Average": 36.096999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T08:00:00Z", 
+            "Average": 0.3321666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T04:00:00Z", 
+            "Average": 0.3874999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T07:00:00Z", 
+            "Average": 36.543, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-13T00:00:00Z", 
+            "Average": 29.583666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T03:00:00Z", 
+            "Average": 0.3745, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T06:00:00Z", 
+            "Average": 54.842333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T08:00:00Z", 
+            "Average": 35.809666666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T04:00:00Z", 
+            "Average": 10.653666666666668, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-24T00:00:00Z", 
+            "Average": 32.714, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T06:00:00Z", 
+            "Average": 0.4456666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T02:00:00Z", 
+            "Average": 36.37833333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T14:00:00Z", 
+            "Average": 37.824, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T10:00:00Z", 
+            "Average": 0.3616666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T13:00:00Z", 
+            "Average": 54.8855, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T17:00:00Z", 
+            "Average": 34.929, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T13:00:00Z", 
+            "Average": 0.38799999999999996, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T09:00:00Z", 
+            "Average": 28.52316666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T15:00:00Z", 
+            "Average": 34.03066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T12:00:00Z", 
+            "Average": 37.202, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T21:00:00Z", 
+            "Average": 39.5545, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T03:00:00Z", 
+            "Average": 37.912, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T20:00:00Z", 
+            "Average": 36.268, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-03T23:00:00Z", 
+            "Average": 0.3576666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T19:00:00Z", 
+            "Average": 0.3971666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T03:00:00Z", 
+            "Average": 0.3541666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T23:00:00Z", 
+            "Average": 0.394, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T12:00:00Z", 
+            "Average": 0.3731666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T08:00:00Z", 
+            "Average": 36.8125, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T07:00:00Z", 
+            "Average": 37.886833333333335, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T14:00:00Z", 
+            "Average": 35.344500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T20:00:00Z", 
+            "Average": 38.352833333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T16:00:00Z", 
+            "Average": 0.341, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T22:00:00Z", 
+            "Average": 34.036500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T18:00:00Z", 
+            "Average": 38.847500000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T07:00:00Z", 
+            "Average": 34.71816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-14T14:00:00Z", 
+            "Average": 0.3983333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T16:00:00Z", 
+            "Average": 0.4721666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T16:00:00Z", 
+            "Average": 38.516000000000005, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-12T22:00:00Z", 
+            "Average": 0.33216666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T03:00:00Z", 
+            "Average": 52.46033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-27T18:00:00Z", 
+            "Average": 31.746333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T17:00:00Z", 
+            "Average": 0.4083333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T13:00:00Z", 
+            "Average": 27.646166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T19:00:00Z", 
+            "Average": 35.88766666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T01:00:00Z", 
+            "Average": 37.41150000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T21:00:00Z", 
+            "Average": 37.091166666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T21:00:00Z", 
+            "Average": 37.183166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T17:00:00Z", 
+            "Average": 0.34866666666666657, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-19T13:00:00Z", 
+            "Average": 0.3821666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-16T19:00:00Z", 
+            "Average": 35.37566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-03T15:00:00Z", 
+            "Average": 35.820166666666665, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T21:00:00Z", 
+            "Average": 35.88983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-04T04:00:00Z", 
+            "Average": 35.85233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T03:00:00Z", 
+            "Average": 34.841, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-01T23:00:00Z", 
+            "Average": 38.906, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-02T12:00:00Z", 
+            "Average": 36.152, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-17T08:00:00Z", 
+            "Average": 36.54866666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T04:00:00Z", 
+            "Average": 37.49066666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T12:00:00Z", 
+            "Average": 0.3543333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T20:00:00Z", 
+            "Average": 37.17100000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T08:00:00Z", 
+            "Average": 37.546, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T14:00:00Z", 
+            "Average": 35.022166666666664, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T10:00:00Z", 
+            "Average": 35.480166666666676, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T02:00:00Z", 
+            "Average": 46.519, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-06T09:00:00Z", 
+            "Average": 39.10783333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-23T22:00:00Z", 
+            "Average": 38.54116666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-10T18:00:00Z", 
+            "Average": 35.61816666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T06:00:00Z", 
+            "Average": 0.4285, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T02:00:00Z", 
+            "Average": 0.39183333333333337, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T22:00:00Z", 
+            "Average": 35.34016666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-15T01:00:00Z", 
+            "Average": 35.20033333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T10:00:00Z", 
+            "Average": 38.79266666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-13T09:00:00Z", 
+            "Average": 0.3475000000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-28T05:00:00Z", 
+            "Average": 37.07116666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-25T11:00:00Z", 
+            "Average": 36.83983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T07:00:00Z", 
+            "Average": 39.147000000000006, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T03:00:00Z", 
+            "Average": 54.86066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-24T09:00:00Z", 
+            "Average": 35.00533333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-02T00:00:00Z", 
+            "Average": 35.288333333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-11T05:00:00Z", 
+            "Average": 0.3651666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-08T11:00:00Z", 
+            "Average": 36.1485, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T07:00:00Z", 
+            "Average": 0.3451666666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-28T06:00:00Z", 
+            "Average": 38.016333333333336, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T20:00:00Z", 
+            "Average": 35.9215, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T16:00:00Z", 
+            "Average": 35.043, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-21T15:00:00Z", 
+            "Average": 37.816, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T04:00:00Z", 
+            "Average": 36.87983333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T00:00:00Z", 
+            "Average": 36.754, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T20:00:00Z", 
+            "Average": 37.599000000000004, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T16:00:00Z", 
+            "Average": 0.4063333333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-18T22:00:00Z", 
+            "Average": 0.3935, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-05T18:00:00Z", 
+            "Average": 34.80233333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-20T00:00:00Z", 
+            "Average": 37.93183333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-17T06:00:00Z", 
+            "Average": 38.55416666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-26T13:00:00Z", 
+            "Average": 39.036833333333334, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-04T02:00:00Z", 
+            "Average": 0.36183333333333323, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-26T01:00:00Z", 
+            "Average": 0.37099999999999994, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-12T21:00:00Z", 
+            "Average": 36.84850000000001, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-10T17:00:00Z", 
+            "Average": 34.62566666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-01T10:00:00Z", 
+            "Average": 35.98066666666667, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-15T02:00:00Z", 
+            "Average": 34.98133333333333, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-09T01:00:00Z", 
+            "Average": 37.758666666666656, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-23T21:00:00Z", 
+            "Average": 31.611, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-21T03:00:00Z", 
+            "Average": 0.3804999999999999, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-07T23:00:00Z", 
+            "Average": 34.97, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-22T05:00:00Z", 
+            "Average": 37.089666666666666, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-02-08T12:00:00Z", 
+            "Average": 27.710333333333338, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-19T11:00:00Z", 
+            "Average": 37.80833333333332, 
+            "Unit": "Percent"
+        }, 
+        {
+            "Timestamp": "2017-03-06T07:00:00Z", 
+            "Average": 0.3616666666666666, 
+            "Unit": "Percent"
+        }
+    ], 
+    "Label": "CPUUtilization"
+}
