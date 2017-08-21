@@ -1,6 +1,6 @@
 from numpy import *
 from statsmodels.robust.scale import mad
-from PyAstronomy import pyasl
+
 
 
 def find_median(data):
@@ -28,19 +28,19 @@ def find_mad_based_outlier(data, thresh):
     return outlier_score > thresh
 
 
-def apply_generalizedESD(dataframe, column_name, max_num_outliers=10,
-                         significance=0.05):
-    array = dataframe[column_name]
-    r = pyasl.generalizedESD(array, max_num_outliers,
-                             significance, fullOutput=True)
+# def apply_generalizedESD(dataframe, column_name, max_num_outliers=10,
+#                          significance=0.05):
+#     array = dataframe[column_name]
+#     r = pyasl.generalizedESD(array, max_num_outliers,
+#                              significance, fullOutput=True)
 
 
 # x = [10, 12, 3, 4, 1]
 # print find_median(x)
 # print find_mad(x)
 
-x = [90, 90, 90, 90, 90, 90]
+x = [10, 12, 5, 4, 3, 6, 24]
 
-print find_mad_based_outlier(x, 3.5)
+print find_mad_based_outlier(x, 3)
 
 
