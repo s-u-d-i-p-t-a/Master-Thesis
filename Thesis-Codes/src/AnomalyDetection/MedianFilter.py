@@ -3,7 +3,7 @@ import scipy as sp
 import matplotlib.pyplot as plt
 from scipy import signal
 from statsmodels.robust.scale import mad
-
+from scipy.signal import medfilt
 
 def find_mad_based_outlier(data, thresh):
 
@@ -22,19 +22,4 @@ def find_mad(data):
     else:
         return mad(data, c=0.6745, axis=0, center=median(data))
 
-t = linspace(0, 10, 200)  # create a time signal
-x1 = sin(t)  # create a simple sine wave
-x2 = x1 + random.rand(200)  # add noise to the signal
-y1 = sp.signal.medfilt(x2, 25)  # add noise to the signal
-print find_mad_based_outlier(y1, 2.5)
-
-# plot the results
-plt.subplot(2, 1, 1)
-plt.plot(t, x2, 'yo-')
-plt.title('input wave')
-plt.xlabel('time')
-plt.subplot(2, 1, 2)
-plt.plot(range(200), y1, 'yo-')
-plt.title('filtered wave')
-plt.xlabel('time')
-plt.show()
+print(medfilt([2, 6, 5, 4,0,3,5,7,9,2,0,1], 5))

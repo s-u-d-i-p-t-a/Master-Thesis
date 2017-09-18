@@ -6,9 +6,10 @@ import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 from collections import OrderedDict
 from numpy import *
-import madgsd as model
-from madgsd import MADGSDAnamoly
+from raiseanomaly import AnomalyDetection
 
+
+# Handling data for the Anomaly Detection Algorithm
 
 def loadData(filename):
     with open(filename) as data_file:
@@ -35,16 +36,17 @@ for data in sorted_obj_avg["Datapoints"]:
             xar.append(data[attribute])
             avg.append(datamap_obj_avg[data[attribute]])
 
-# Anomaly detection algorithm with the data
+
+# Plotting anomalies in graph
 
 converted_dates = map(datetime.datetime.strptime, xar, len(xar)*['%Y-%m-%dT%H:%M:%SZ'])
-x_axis = (converted_dates)
+x_axis = converted_dates
 fig = plt.figure()
-plt.plot(x_axis, avg,'g')
+plt.plot(x_axis, avg, 'g')
 
-# Code for anomaly here to plot in graph
-model = MADGSDAnamoly(avg, x_axis)
-anomalies = model.detect_series(avg, 1, len(avg))
+
+model = AnomalyDetection(avg, x_axis)    #Instantiate the object of Anomaly Detection class and call the main function to detect anomalies
+residual, seasonality, trend, anomalies = model.detect_anomalies(avg, 1, len(avg), 0.02)
 
 days = mdates.DayLocator()
 hours = mdates.HourLocator(interval=2)
@@ -55,10 +57,33 @@ plt.xlabel('Time')
 plt.ylabel('CPU Utilization')
 plt.title('Plotting Time series data')
 plt.legend(['Average'])
-plt.subplots_adjust(bottom=.30)
+
 
 circle_rad = 2  # This is the radius, in points
-for anamolyVal, index, score in anomalies:
-    ax.plot(x_axis[index], anamolyVal, 'o', ms=circle_rad * 2, mec='r', mfc='none', mew=2)
+for anomalyVal, index, score in anomalies:
+    ax.plot(x_axis[index], anomalyVal, 'o', ms=circle_rad * 2, mec='r', mfc='none', mew=2)
 
+
+# Plotting the trend of time series
+fig2 = plt.figure()
+ax1 = fig2.add_subplot(311)
+ax1.set_title("Trend")
+fig2.subplots_adjust(hspace=.5)
+ax1.plot(trend)
+
+# Plotting the residual of time series
+ax2 = fig2.add_subplot(312)
+ax2.set_title("Residual")
+fig2.subplots_adjust(hspace=.5)
+ax2.plot(residual)
+
+# Plotting the seasonality of time series
+ax3 = fig2.add_subplot(313)
+ax3.set_title("Seasonality")
+fig2.subplots_adjust(hspace=.5)
+ax3.plot(seasonality)
+
+# Display the plots
 plt.show()
+
+
